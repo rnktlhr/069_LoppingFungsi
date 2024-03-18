@@ -10,7 +10,7 @@ int main(){
     }
 
     for (i = 0; i < 5; i++){
-        cout << "Masukan Nama = ";
+        cout << "Masukan Bilangan = ";
         cin >> arr[i];
     }
 
